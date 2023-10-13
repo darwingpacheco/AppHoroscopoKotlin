@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HoroscoAppKotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmentHosroscopo">ESTE ES EL FRAGMENT HOROSCOPO</string>
+
+    <!-- buton bar-->
+    <string name="horoscopo">HOROSCOPO</string>
+    <string name="palmistry">PALMISTRY</string>
+    <string name="luck">LUCK</string>
+
+</resources>
