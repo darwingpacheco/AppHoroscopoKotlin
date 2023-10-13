@@ -9,4 +9,6 @@
     <string name="palmistry">PALMISTRY</string>
     <string name="luck">LUCK</string>
 
+    <!--toolbar-->
+    <string name="titleToolbar">HoroscoAPP</string>
 </resources>
